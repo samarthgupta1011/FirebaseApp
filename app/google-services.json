@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487671489531",
+    "firebase_url": "https://fir-authnotif.firebaseio.com",
+    "project_id": "fir-authnotif",
+    "storage_bucket": "fir-authnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487671489531:android:7bc0e684bd2cc174",
+        "android_client_info": {
+          "package_name": "com.samarthgupta.firebaseauthnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487671489531-0r6kjn38ggju0hp1883adr4glu68ivc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5d72NoAQbmk39XzpfzabglM449h9EGUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487671489531-0r6kjn38ggju0hp1883adr4glu68ivc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
